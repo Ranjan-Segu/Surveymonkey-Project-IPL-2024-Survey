@@ -9,3 +9,5 @@ CHARTS:
 https://www.surveymonkey.com/results/SM-X5hw5AYR190k_2Ben_2B0VKzpA_3D_3D/
 
 ![Survey Chart](https://github.com/Ranjan-Segu/Surveymonkey-Project-IPL-2024-Survey/assets/168505027/17d4ff8a-5304-4ce2-92f0-6573d060bd65)
+
+![Survey Chart1](https://github.com/Ranjan-Segu/Surveymonkey-Project-IPL-2024-Survey/assets/168505027/a8a67c9d-eac9-48df-8b44-062fc78b7260)
